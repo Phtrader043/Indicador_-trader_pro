@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+requests
+ta
+cohere
+python-binance
+MetaTrader5
+scikit-learn
+joblib
+pytz
